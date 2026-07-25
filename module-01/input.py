@@ -1,0 +1,5 @@
+print("Now I need money")
+money = input("Give me some money : ")
+price = input("Give me some Dollar : ")
+total = int(money) + int(price)
+print("Here is your money + Dollar", total)
